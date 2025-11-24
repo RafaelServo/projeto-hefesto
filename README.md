@@ -44,8 +44,7 @@ PROJETO HEFESTO
 │   └── abis/
 │        ├── HefestoInventario.json ← ABI contrato inventário
 │        ├── HefestoLogistica.json  ← ABI contrato logística
-│        ├── HefestoRBAC.json       ← ABI contrato RBAC (não usado)
-│        └── RegistroHash.json      ← ABI do contrato auxiliar
+
 ```
 
 ---
