@@ -7,7 +7,7 @@ Ele integra:
 - Interface Web em Streamlit (Python)
 - Conexão blockchain via Web3.py
 - RBAC militar (Intermediário / Superior / General)
-- Aprovação bilateral de operações
+- Aprovação bilateral de operações (Potencial)
 - Registro imutável via hashes SHA-256
 - Execução em rede privada local (Ganache / PoA simulado)
 
