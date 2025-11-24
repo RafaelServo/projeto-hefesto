@@ -260,9 +260,11 @@ http://localhost:8501
 Telas do sistema:
 
 
+1- Inventário
 ![alt text](image.png)
 
 
+2- Operações logísticas
 ![alt text](image-1.png)
 
 
@@ -270,7 +272,9 @@ Telas do sistema:
 ![alt text](image-2.png)
 
 
+4- Aprovação Militar
 ![alt text](image-3.png)
+
 
 ---
 
