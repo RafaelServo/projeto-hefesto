@@ -1,4 +1,4 @@
-# 📘 Projeto Hefesto — Blockchain Militar para Logística de Armamentos
+# Projeto Hefesto — Blockchain Militar para Logística de Armamentos
 
 O **Projeto Hefesto** é uma Prova de Conceito (PoC) baseada em **blockchain**, criada para demonstrar como forças militares podem utilizar tecnologias descentralizadas para garantir **rastreabilidade, integridade, controle hierárquico e auditabilidade completa** na gestão de armamentos e movimentações logísticas.
 
@@ -13,7 +13,7 @@ Ele integra:
 
 ---
 
-# 🔰 1. Objetivo do Hefesto
+# 1. Objetivo do Hefesto
 
 O sistema foi idealizado para demonstrar:
 
@@ -27,7 +27,7 @@ O sistema foi idealizado para demonstrar:
 
 ---
 
-# 📁 2. Estrutura do Projeto
+# 2. Estrutura do Projeto
 
 ```
 PROJETO HEFESTO
@@ -49,11 +49,11 @@ PROJETO HEFESTO
 
 ---
 
-# 🧩 3. Explicação dos Componentes (Visão Macro)
+# 3. Explicação dos Componentes (Visão Macro)
 
 ## A) Smart Contracts (Solidity)
 
-### 📌 HefestoLogistica.sol — Core do Sistema
+### HefestoLogistica.sol — Core do Sistema
 Implementa toda a lógica militar, incluindo:
 
 #### 🔹 RBAC hierárquico
@@ -111,7 +111,7 @@ Todas as ações geram eventos para auditoria.
 
 ## B) Interface Python / Streamlit (Frontend)
 
-### 📌 app_hefesto.py — UI principal
+### app_hefesto.py — UI principal
 Responsável por toda a interface e comunicação com a blockchain.
 
 #### 🔹 Utilitários
@@ -153,7 +153,7 @@ Organizada em 4 seções:
 
 ## C) Estilo Visual
 
-### 📌 military_theme.css
+### military_theme.css
 Define o tema estético militar:
 
 - Paleta verde/oliva  
@@ -177,7 +177,7 @@ Contêm:
 
 ---
 
-# 🔧 4. Tecnologias Utilizadas
+# 4. Tecnologias Utilizadas
 
 | Camada | Tecnologia | Função |
 |--------|------------|--------|
@@ -190,19 +190,19 @@ Contêm:
 
 ---
 
-# ⚙️ 5. Como Executar o Projeto
+# 5. Como Executar o Projeto
 
-### 1️⃣ Inicie a blockchain local
+### Inicie a blockchain local
 ```bash
 ganache
 ```
 
-### 2️⃣ Instale as dependências
+### Instale as dependências
 ```bash
 pip install streamlit web3
 ```
 
-### 3️⃣ Execute a interface
+### Execute a interface
 ```bash
 streamlit run interface/app_hefesto.py
 ```
@@ -214,7 +214,7 @@ http://localhost:8501
 
 ---
 
-# 📡 6. Arquitetura Resumida
+# 6. Arquitetura Resumida
 
 ```
 ┌─────────────────────┐
@@ -232,7 +232,7 @@ http://localhost:8501
 
 ---
 
-# 🛡️ 7. Funcionalidades do Hefesto
+# 7. Funcionalidades do Hefesto
 
 ### Inventário Militar
 - Registro de itens via SHA-256  
@@ -255,7 +255,7 @@ http://localhost:8501
 
 ---
 
-# 📜 8. Screenshots
+# 8. Screenshots
 
 1- Inventário
 
@@ -283,12 +283,12 @@ http://localhost:8501
 
 ---
 
-# 📄 9. Licença
+# 9. Licença
 Projeto acadêmico — Realizado no âmbito da disciplina "Introdução à tecnologia BlockChain e Aplicações descentralizadas". Realizado por Fabrício Kolk Carvalho e Rafael Servo.
 
 ---
 
-# 🎯 10. Conclusão
+# 10. Conclusão
 
 O Hefesto demonstra como ambientes militares podem adotar blockchain para criar um ecossistema com:
 
@@ -298,10 +298,10 @@ O Hefesto demonstra como ambientes militares podem adotar blockchain para criar 
 - Imutabilidade  
 - Descentralização controlada  
 
-A combinação de:
+O projeto faz uso da combinação das tecnologias abaixo:
 - **Solidity** (backend imutável)  
 - **Web3.py** (ponte segura)  
 - **Streamlit** (UI militar)
 - **Ganache** - Blockchain privada PoA de teste  
 
-forma um sistema funcional, transparente e aplicável a cenários reais de logística militar.
+Com essa combinação, criamos um sistema funcional, transparente e aplicável a cenários reais de logística militar.
