@@ -41,7 +41,6 @@ PROJETO HEFESTO
 │   ├── military_theme.css          ← Tema militar personalizado
 │
 ├── python/
-│   ├── client.py                   ← Cliente Web3 auxiliar (não usado na versão final)
 │   └── abis/
 │        ├── HefestoInventario.json ← ABI contrato inventário
 │        ├── HefestoLogistica.json  ← ABI contrato logística
