@@ -1,5 +1,5 @@
 # Projeto Hefesto — Blockchain Militar para Logística de Armamentos
-TESTE ATUALIZACAO
+
 O **Projeto Hefesto** é uma Prova de Conceito (PoC) baseada em **blockchain**, criada para demonstrar como forças militares podem utilizar tecnologias descentralizadas para garantir **rastreabilidade, integridade, controle hierárquico e auditabilidade completa** na gestão de armamentos e movimentações logísticas.
 
 Ele integra:
