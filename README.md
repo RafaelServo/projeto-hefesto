@@ -141,7 +141,7 @@ Organizada em 4 seções:
 
 3. **Consultas**
    - Consulta por hash  
-   - Consulta de item  
+   - Consulta de item (Potencial)  
 
 4. **Aprovação Militar**
    - Login simples  
